@@ -1,0 +1,28 @@
+{
+  "Hero": {
+    "title": "Convert any file format in seconds",
+    "text": "Without registration, paid plans, uploads, and other SaaS nonsense.\nEverything works on your device. As it should be",
+    "how": "Read how",
+    "watch": "Watch in action"
+  },
+  "FilePanel": {
+    "Upload": {
+      "title": "Drag and drop file(s)",
+      "or": "or if you are not from that sort",
+      "button": "click the button"
+    },
+    "Search": { "placeholder": "Search..." },
+    "List": { "empty": "It's empty. Nothing was found" },
+    "Item": { "remove": "Remove" },
+    "Processing": {
+      "multiple_ext": "We do not currently support processing multiple file types"
+    }
+  },
+  "Processing": {
+    "success": "<p>Сonversion was successfully completed in {time} seconds</p><love>With love, <logo></logo></love>",
+    "error": "An error occurred while performing the conversion"
+  },
+  "Meta": {
+    "main": "Convert any file format in seconds"
+  }
+}

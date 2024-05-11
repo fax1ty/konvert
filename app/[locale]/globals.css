@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body,
+  main {
+    @apply h-screen;
+  }
+
+  main {
+    @apply container;
+  }
+}
